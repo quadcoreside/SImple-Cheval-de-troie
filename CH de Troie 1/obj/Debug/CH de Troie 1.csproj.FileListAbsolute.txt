@@ -1,0 +1,6 @@
+c:\users\moussa\documents\visual studio 2013\Projects\CH de Troie 1\CH de Troie 1\bin\Debug\CH de Troie 1.exe.config
+c:\users\moussa\documents\visual studio 2013\Projects\CH de Troie 1\CH de Troie 1\obj\Debug\CH de Troie 1.csprojResolveAssemblyReference.cache
+c:\users\moussa\documents\visual studio 2013\Projects\CH de Troie 1\CH de Troie 1\bin\Debug\CH de Troie 1.exe
+c:\users\moussa\documents\visual studio 2013\Projects\CH de Troie 1\CH de Troie 1\bin\Debug\CH de Troie 1.pdb
+c:\users\moussa\documents\visual studio 2013\Projects\CH de Troie 1\CH de Troie 1\obj\Debug\CH de Troie 1.exe
+c:\users\moussa\documents\visual studio 2013\Projects\CH de Troie 1\CH de Troie 1\obj\Debug\CH de Troie 1.pdb

@@ -1,0 +1,10 @@
+C:\Users\Moussa\documents\visual studio 2013\Projects\CH de Troie 1\Panel\bin\Debug\Panel.exe.config
+C:\Users\Moussa\documents\visual studio 2013\Projects\CH de Troie 1\Panel\bin\Debug\Panel.exe
+C:\Users\Moussa\documents\visual studio 2013\Projects\CH de Troie 1\Panel\bin\Debug\Panel.pdb
+C:\Users\Moussa\documents\visual studio 2013\Projects\CH de Troie 1\Panel\obj\Debug\Panel.csprojResolveAssemblyReference.cache
+C:\Users\Moussa\documents\visual studio 2013\Projects\CH de Troie 1\Panel\obj\Debug\Panel.ControleVictimes.resources
+C:\Users\Moussa\documents\visual studio 2013\Projects\CH de Troie 1\Panel\obj\Debug\Panel.Form1.resources
+C:\Users\Moussa\documents\visual studio 2013\Projects\CH de Troie 1\Panel\obj\Debug\Panel.Properties.Resources.resources
+C:\Users\Moussa\documents\visual studio 2013\Projects\CH de Troie 1\Panel\obj\Debug\Panel.csproj.GenerateResource.Cache
+C:\Users\Moussa\documents\visual studio 2013\Projects\CH de Troie 1\Panel\obj\Debug\Panel.exe
+C:\Users\Moussa\documents\visual studio 2013\Projects\CH de Troie 1\Panel\obj\Debug\Panel.pdb

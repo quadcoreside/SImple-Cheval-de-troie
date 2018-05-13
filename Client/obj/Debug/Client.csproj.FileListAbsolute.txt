@@ -1,0 +1,6 @@
+C:\Users\Moussa\Documents\Visual Studio 2013\Projects\CH de Troie 1\Client\bin\Debug\Client.exe.config
+C:\Users\Moussa\Documents\Visual Studio 2013\Projects\CH de Troie 1\Client\bin\Debug\Client.exe
+C:\Users\Moussa\Documents\Visual Studio 2013\Projects\CH de Troie 1\Client\bin\Debug\Client.pdb
+C:\Users\Moussa\Documents\Visual Studio 2013\Projects\CH de Troie 1\Client\obj\Debug\Client.exe
+C:\Users\Moussa\Documents\Visual Studio 2013\Projects\CH de Troie 1\Client\obj\Debug\Client.pdb
+C:\Users\Moussa\Documents\Visual Studio 2013\Projects\CH de Troie 1\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
